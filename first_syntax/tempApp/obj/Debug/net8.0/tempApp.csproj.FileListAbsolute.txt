@@ -1,0 +1,14 @@
+/home/raw_miku/Documents/training/c#/first_syntax/tempApp/bin/Debug/net8.0/tempApp
+/home/raw_miku/Documents/training/c#/first_syntax/tempApp/bin/Debug/net8.0/tempApp.deps.json
+/home/raw_miku/Documents/training/c#/first_syntax/tempApp/bin/Debug/net8.0/tempApp.runtimeconfig.json
+/home/raw_miku/Documents/training/c#/first_syntax/tempApp/bin/Debug/net8.0/tempApp.dll
+/home/raw_miku/Documents/training/c#/first_syntax/tempApp/bin/Debug/net8.0/tempApp.pdb
+/home/raw_miku/Documents/training/c#/first_syntax/tempApp/obj/Debug/net8.0/tempApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/raw_miku/Documents/training/c#/first_syntax/tempApp/obj/Debug/net8.0/tempApp.AssemblyInfoInputs.cache
+/home/raw_miku/Documents/training/c#/first_syntax/tempApp/obj/Debug/net8.0/tempApp.AssemblyInfo.cs
+/home/raw_miku/Documents/training/c#/first_syntax/tempApp/obj/Debug/net8.0/tempApp.csproj.CoreCompileInputs.cache
+/home/raw_miku/Documents/training/c#/first_syntax/tempApp/obj/Debug/net8.0/tempApp.dll
+/home/raw_miku/Documents/training/c#/first_syntax/tempApp/obj/Debug/net8.0/refint/tempApp.dll
+/home/raw_miku/Documents/training/c#/first_syntax/tempApp/obj/Debug/net8.0/tempApp.pdb
+/home/raw_miku/Documents/training/c#/first_syntax/tempApp/obj/Debug/net8.0/tempApp.genruntimeconfig.cache
+/home/raw_miku/Documents/training/c#/first_syntax/tempApp/obj/Debug/net8.0/ref/tempApp.dll
