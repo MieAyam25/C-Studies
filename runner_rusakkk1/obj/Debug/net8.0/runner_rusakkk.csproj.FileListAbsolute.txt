@@ -1,0 +1,15 @@
+/home/raw_miku/Documents/training/c#/runner_rusakkk/bin/Debug/net8.0/runner_rusakkk
+/home/raw_miku/Documents/training/c#/runner_rusakkk/bin/Debug/net8.0/runner_rusakkk.deps.json
+/home/raw_miku/Documents/training/c#/runner_rusakkk/bin/Debug/net8.0/runner_rusakkk.runtimeconfig.json
+/home/raw_miku/Documents/training/c#/runner_rusakkk/bin/Debug/net8.0/runner_rusakkk.dll
+/home/raw_miku/Documents/training/c#/runner_rusakkk/bin/Debug/net8.0/runner_rusakkk.pdb
+/home/raw_miku/Documents/training/c#/runner_rusakkk/obj/Debug/net8.0/runner_rusakkk.GeneratedMSBuildEditorConfig.editorconfig
+/home/raw_miku/Documents/training/c#/runner_rusakkk/obj/Debug/net8.0/runner_rusakkk.AssemblyInfoInputs.cache
+/home/raw_miku/Documents/training/c#/runner_rusakkk/obj/Debug/net8.0/runner_rusakkk.AssemblyInfo.cs
+/home/raw_miku/Documents/training/c#/runner_rusakkk/obj/Debug/net8.0/runner_rusakkk.csproj.CoreCompileInputs.cache
+/home/raw_miku/Documents/training/c#/runner_rusakkk/obj/Debug/net8.0/runner_rusakkk.dll
+/home/raw_miku/Documents/training/c#/runner_rusakkk/obj/Debug/net8.0/refint/runner_rusakkk.dll
+/home/raw_miku/Documents/training/c#/runner_rusakkk/obj/Debug/net8.0/runner_rusakkk.pdb
+/home/raw_miku/Documents/training/c#/runner_rusakkk/obj/Debug/net8.0/runner_rusakkk.genruntimeconfig.cache
+/home/raw_miku/Documents/training/c#/runner_rusakkk/obj/Debug/net8.0/ref/runner_rusakkk.dll
+/home/raw_miku/Documents/training/c#/runner_rusakkk/obj/Debug/net8.0/runner_rusakkk.sourcelink.json
