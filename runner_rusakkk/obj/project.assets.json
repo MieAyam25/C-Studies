@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/raw_miku/Documents/training/c#/runner_rusakkk/runner_rusakkk.csproj",
+      "projectUniqueName": "/home/raw_miku/Documents/training/c#/runner_rusakkk1/runner_rusakkk.csproj",
       "projectName": "runner_rusakkk",
-      "projectPath": "/home/raw_miku/Documents/training/c#/runner_rusakkk/runner_rusakkk.csproj",
+      "projectPath": "/home/raw_miku/Documents/training/c#/runner_rusakkk1/runner_rusakkk.csproj",
       "packagesPath": "/home/raw_miku/.nuget/packages/",
-      "outputPath": "/home/raw_miku/Documents/training/c#/runner_rusakkk/obj/",
+      "outputPath": "/home/raw_miku/Documents/training/c#/runner_rusakkk1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/raw_miku/.nuget/NuGet/NuGet.Config"
