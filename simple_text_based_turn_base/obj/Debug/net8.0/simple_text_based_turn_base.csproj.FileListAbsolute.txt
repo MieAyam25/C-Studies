@@ -1,0 +1,15 @@
+/home/raw_miku/Documents/training/c#/simple_text_based_turn_base/obj/Debug/net8.0/simple_text_based_turn_base.GeneratedMSBuildEditorConfig.editorconfig
+/home/raw_miku/Documents/training/c#/simple_text_based_turn_base/obj/Debug/net8.0/simple_text_based_turn_base.AssemblyInfoInputs.cache
+/home/raw_miku/Documents/training/c#/simple_text_based_turn_base/obj/Debug/net8.0/simple_text_based_turn_base.AssemblyInfo.cs
+/home/raw_miku/Documents/training/c#/simple_text_based_turn_base/obj/Debug/net8.0/simple_text_based_turn_base.csproj.CoreCompileInputs.cache
+/home/raw_miku/Documents/training/c#/simple_text_based_turn_base/obj/Debug/net8.0/simple_text_based_turn_base.sourcelink.json
+/home/raw_miku/Documents/training/c#/simple_text_based_turn_base/bin/Debug/net8.0/simple_text_based_turn_base
+/home/raw_miku/Documents/training/c#/simple_text_based_turn_base/bin/Debug/net8.0/simple_text_based_turn_base.deps.json
+/home/raw_miku/Documents/training/c#/simple_text_based_turn_base/bin/Debug/net8.0/simple_text_based_turn_base.runtimeconfig.json
+/home/raw_miku/Documents/training/c#/simple_text_based_turn_base/bin/Debug/net8.0/simple_text_based_turn_base.dll
+/home/raw_miku/Documents/training/c#/simple_text_based_turn_base/bin/Debug/net8.0/simple_text_based_turn_base.pdb
+/home/raw_miku/Documents/training/c#/simple_text_based_turn_base/obj/Debug/net8.0/simple_text_based_turn_base.dll
+/home/raw_miku/Documents/training/c#/simple_text_based_turn_base/obj/Debug/net8.0/refint/simple_text_based_turn_base.dll
+/home/raw_miku/Documents/training/c#/simple_text_based_turn_base/obj/Debug/net8.0/simple_text_based_turn_base.pdb
+/home/raw_miku/Documents/training/c#/simple_text_based_turn_base/obj/Debug/net8.0/simple_text_based_turn_base.genruntimeconfig.cache
+/home/raw_miku/Documents/training/c#/simple_text_based_turn_base/obj/Debug/net8.0/ref/simple_text_based_turn_base.dll
